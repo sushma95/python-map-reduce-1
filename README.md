@@ -32,7 +32,7 @@ PowerShell and Bash use the same commands:
 
 ```Bash
 
-cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py
+cat purchases.txt | py 21mapper.py | sort  | py 22reducer.py
 
 ```
 
